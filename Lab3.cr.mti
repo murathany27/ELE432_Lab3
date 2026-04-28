@@ -1,0 +1,89 @@
+D:/ders/term8-final/ELE432/Lab3/instrdec.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/instrdec.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module instrdec
+
+Top level modules:
+	instrdec
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/mux2.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/mux2.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/aludec.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/aludec.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module aludec
+
+Top level modules:
+	aludec
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/riscv.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/riscv.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module riscv
+
+Top level modules:
+	riscv
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/alu.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/alu.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/mainfsm.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/mainfsm.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module mainfsm
+
+Top level modules:
+	mainfsm
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/mux3.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/mux3.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/flopenr.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/flopenr.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module flopenr
+
+Top level modules:
+	flopenr
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/regfile.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/regfile.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} D:/ders/term8-final/ELE432/Lab3/extend.sv {1 {vlog -work work -vopt -sv -stats=none D:/ders/term8-final/ELE432/Lab3/extend.sv
+Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vlog-220) 'D:/ders/term8-final/ELE432/Lab3/Lab3.mpf' is used as the ini file.
+-- Compiling module extend
+
+Top level modules:
+	extend
+
+} {} {}}

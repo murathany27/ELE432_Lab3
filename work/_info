@@ -1,0 +1,460 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+Z2 !s12c _opt
+R1
+R0
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z3 dD:/ders/term8-final/ELE432/HW2
+T_opt
+!i145 1
+!i144 0
+!s110 1777413462
+Vj3hSaP@_D@[ok^iO>l`fS2
+Z4 04 9 4 work testbench fast 0
+=1-847b57f32e88-69f12d54-16e-47b4
+R1
+Z5 !s12f OEM100
+Z6 !s12b OEM100
+Z7 !s124 OEM10U23 
+Z8 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z9 tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+Z10 OL;O;2025.2;82
+R3
+T_opt1
+!i145 1
+!i144 0
+!s110 1777413489
+Vaj:GO_hKOkGA8ECiWl3On2
+R4
+=1-847b57f32e88-69f12d6e-3a2-ac8
+R1
+R5
+R6
+R7
+R8
+o-quiet -auto_acc_if_foreign -work work +acc
+R9
+n@_opt1
+R10
+valu
+2D:/ders/term8-final/ELE432/Lab3/alu.sv
+Z11 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z12 !s110 1777413443
+!i10b 1
+!s100 LkX1Y_Zo=@^z59X8L>R=R2
+IGEkekMTfEPW[6EM<TNdMT0
+S1
+Z13 dD:/ders/term8-final/ELE432/Lab3
+w1777138991
+8D:/ders/term8-final/ELE432/Lab3/alu.sv
+FD:/ders/term8-final/ELE432/Lab3/alu.sv
+!i122 136
+Z14 L0 1 19
+Z15 VDg1SIo80bB@j0V0VzS_@n1
+Z16 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z17 !s108 1777413443.000000
+!s107 D:/ders/term8-final/ELE432/Lab3/alu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/alu.sv|
+!i113 0
+Z18 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z19 tCvgOpt 0 defaultOptions 1085333592
+valudec
+2D:/ders/term8-final/ELE432/Lab3/aludec.sv
+R11
+R12
+!i10b 1
+!s100 I95FRThzF<]zzWdgMNDOX3
+I@182Xg1B;8gcUH9mbYCDW2
+S1
+R13
+w1777138672
+8D:/ders/term8-final/ELE432/Lab3/aludec.sv
+FD:/ders/term8-final/ELE432/Lab3/aludec.sv
+!i122 137
+L0 1 24
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 D:/ders/term8-final/ELE432/Lab3/aludec.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/aludec.sv|
+!i113 0
+R18
+R19
+vcontroller
+2D:/ders/term8-final/ELE432/Lab3/controller.sv
+R11
+Z20 !s110 1777413444
+!i10b 1
+!s100 bk6=;Lcf[Uoac?mJ[kV3J2
+I2QaH=Y6cPK1g_bL=<d8lo2
+S1
+R13
+w1777136983
+8D:/ders/term8-final/ELE432/Lab3/controller.sv
+FD:/ders/term8-final/ELE432/Lab3/controller.sv
+!i122 138
+L0 1 42
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 D:/ders/term8-final/ELE432/Lab3/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/controller.sv|
+!i113 0
+R18
+R19
+vdatapath
+2D:/ders/term8-final/ELE432/Lab3/datapath.sv
+R11
+R20
+!i10b 1
+!s100 Bc0bf[L4OT?g97B>mVeSd1
+IX^^IA^l_`4Iggl>dj;Ul?1
+S1
+R13
+w1777138882
+8D:/ders/term8-final/ELE432/Lab3/datapath.sv
+FD:/ders/term8-final/ELE432/Lab3/datapath.sv
+!i122 139
+L0 1 74
+R15
+R16
+r1
+!s85 0
+31
+Z21 !s108 1777413444.000000
+!s107 D:/ders/term8-final/ELE432/Lab3/datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/datapath.sv|
+!i113 0
+R18
+R19
+vextend
+2D:/ders/term8-final/ELE432/Lab3/extend.sv
+R11
+R20
+!i10b 1
+!s100 agOoRTc?US7KGJcZzL@333
+IA;LR9]:>dha1DVS8_[@Ul0
+S1
+R13
+w1777137285
+8D:/ders/term8-final/ELE432/Lab3/extend.sv
+FD:/ders/term8-final/ELE432/Lab3/extend.sv
+!i122 140
+L0 1 17
+R15
+R16
+r1
+!s85 0
+31
+R21
+!s107 D:/ders/term8-final/ELE432/Lab3/extend.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/extend.sv|
+!i113 0
+R18
+R19
+vflopenr
+2D:/ders/term8-final/ELE432/Lab3/flopenr.sv
+R11
+Z22 !s110 1777413446
+!i10b 1
+!s100 zj>1cZllORKC99ag3J=_V2
+IJP`>46e<nZgQBH<BHBLlo2
+S1
+R13
+w1777138155
+8D:/ders/term8-final/ELE432/Lab3/flopenr.sv
+FD:/ders/term8-final/ELE432/Lab3/flopenr.sv
+!i122 149
+L0 1 11
+R15
+R16
+r1
+!s85 0
+31
+Z23 !s108 1777413446.000000
+!s107 D:/ders/term8-final/ELE432/Lab3/flopenr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/flopenr.sv|
+!i113 0
+R18
+R19
+vflopr
+2D:/ders/term8-final/ELE432/Lab3/flopr.sv
+R11
+!s110 1777137881
+!i10b 1
+!s100 P<7EC]j<>J0<GQGmMc0a_1
+IfEG:^jWcRRmaf]ESaQeLM1
+S1
+R13
+w1777137296
+8D:/ders/term8-final/ELE432/Lab3/flopr.sv
+FD:/ders/term8-final/ELE432/Lab3/flopr.sv
+!i122 5
+L0 1 9
+R15
+R16
+r1
+!s85 0
+31
+!s108 1777137881.000000
+!s107 D:/ders/term8-final/ELE432/Lab3/flopr.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/flopr.sv|
+!i113 0
+R18
+R19
+vinstrdec
+2D:/ders/term8-final/ELE432/Lab3/instrdec.sv
+R11
+R20
+!i10b 1
+!s100 e>jIV688UW@;H>O4MgD793
+I]^bCoamV4Of^lmI`QV]fj2
+S1
+R13
+w1777137062
+8D:/ders/term8-final/ELE432/Lab3/instrdec.sv
+FD:/ders/term8-final/ELE432/Lab3/instrdec.sv
+!i122 141
+L0 1 14
+R15
+R16
+r1
+!s85 0
+31
+R21
+!s107 D:/ders/term8-final/ELE432/Lab3/instrdec.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/instrdec.sv|
+!i113 0
+R18
+R19
+vmainfsm
+2D:/ders/term8-final/ELE432/Lab3/mainfsm.sv
+R11
+Z24 !s110 1777413445
+!i10b 1
+!s100 94a`m8?ZzdQP>]Z5zAU<>1
+I9zK4@=fj8ikHSO[kmX@UQ1
+S1
+R13
+w1777137031
+8D:/ders/term8-final/ELE432/Lab3/mainfsm.sv
+FD:/ders/term8-final/ELE432/Lab3/mainfsm.sv
+!i122 142
+L0 1 103
+R15
+R16
+r1
+!s85 0
+31
+R21
+!s107 D:/ders/term8-final/ELE432/Lab3/mainfsm.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/mainfsm.sv|
+!i113 0
+R18
+R19
+vmem
+2D:/ders/term8-final/ELE432/Lab3/mem.sv
+R11
+R24
+!i10b 1
+!s100 GS:K`R<S<YCT[3HL9M;Lz3
+I2^8L9lejcOzW7GjXh6D@81
+S1
+R13
+w1777138297
+8D:/ders/term8-final/ELE432/Lab3/mem.sv
+FD:/ders/term8-final/ELE432/Lab3/mem.sv
+!i122 143
+L0 1 18
+R15
+R16
+r1
+!s85 0
+31
+Z25 !s108 1777413445.000000
+!s107 D:/ders/term8-final/ELE432/Lab3/mem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/mem.sv|
+!i113 0
+R18
+R19
+vmux2
+2D:/ders/term8-final/ELE432/Lab3/mux2.sv
+R11
+R24
+!i10b 1
+!s100 kS]e@bmAKOQnSD<D8jmX?0
+I;PBUXH0dJRGOoP6Rb:T;a1
+S1
+R13
+w1777137309
+8D:/ders/term8-final/ELE432/Lab3/mux2.sv
+FD:/ders/term8-final/ELE432/Lab3/mux2.sv
+!i122 144
+Z26 L0 1 7
+R15
+R16
+r1
+!s85 0
+31
+R25
+!s107 D:/ders/term8-final/ELE432/Lab3/mux2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/mux2.sv|
+!i113 0
+R18
+R19
+vmux3
+2D:/ders/term8-final/ELE432/Lab3/mux3.sv
+R11
+R24
+!i10b 1
+!s100 GWL]fOg6Eaiz^M?z27cLf1
+IXH8P6R;fO^8oL>Yb_Go6>0
+S1
+R13
+w1777137321
+8D:/ders/term8-final/ELE432/Lab3/mux3.sv
+FD:/ders/term8-final/ELE432/Lab3/mux3.sv
+!i122 145
+R26
+R15
+R16
+r1
+!s85 0
+31
+R25
+!s107 D:/ders/term8-final/ELE432/Lab3/mux3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/mux3.sv|
+!i113 0
+R18
+R19
+vregfile
+2D:/ders/term8-final/ELE432/Lab3/regfile.sv
+R11
+R24
+!i10b 1
+!s100 @_5aTA:Q9CYLhf1U:B9cY3
+IMb=V`[D]EfiYR<K<;h_`o2
+S1
+R13
+w1777137337
+8D:/ders/term8-final/ELE432/Lab3/regfile.sv
+FD:/ders/term8-final/ELE432/Lab3/regfile.sv
+!i122 146
+R14
+R15
+R16
+r1
+!s85 0
+31
+R25
+!s107 D:/ders/term8-final/ELE432/Lab3/regfile.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/regfile.sv|
+!i113 0
+R18
+R19
+vriscv
+2D:/ders/term8-final/ELE432/Lab3/riscv.sv
+R11
+R22
+!i10b 1
+!s100 zI6X2mJiTa5TXQ>YmDz`53
+ITZWaWk>Y5abWQNFR@jgeX2
+S1
+R13
+w1777137212
+8D:/ders/term8-final/ELE432/Lab3/riscv.sv
+FD:/ders/term8-final/ELE432/Lab3/riscv.sv
+!i122 147
+L0 1 45
+R15
+R16
+r1
+!s85 0
+31
+R23
+!s107 D:/ders/term8-final/ELE432/Lab3/riscv.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/riscv.sv|
+!i113 0
+R18
+R19
+vtestbench
+2D:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv
+R11
+!s110 1777413447
+!i10b 1
+!s100 L3;b5UQYKASI]3UfU_7V81
+IOm6iDnQ^oLkgo<TE=WYLm0
+S1
+R13
+w1777413390
+8D:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv
+FD:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv
+!i122 150
+L0 1 37
+R15
+R16
+r1
+!s85 0
+31
+!s108 1777413447.000000
+!s107 D:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/riscv_testbench.sv|
+!i113 0
+R18
+R19
+vtop
+2D:/ders/term8-final/ELE432/Lab3/top.sv
+R11
+R22
+!i10b 1
+!s100 <K6J2H;9U?>=5Y5f;1YD50
+I5R]>oSmEk6<>nn8nU8O3U2
+S1
+R13
+w1777137224
+8D:/ders/term8-final/ELE432/Lab3/top.sv
+FD:/ders/term8-final/ELE432/Lab3/top.sv
+!i122 148
+L0 1 26
+R15
+R16
+r1
+!s85 0
+31
+R23
+!s107 D:/ders/term8-final/ELE432/Lab3/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/ders/term8-final/ELE432/Lab3/top.sv|
+!i113 0
+R18
+R19

@@ -1,0 +1,16 @@
+2 7 mainfsm 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 215 0
+2 6 aludec 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 47 0
+2 8 instrdec 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 24 0
+2 10 controller 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 350 0
+2 7 flopenr 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 35 0
+2 4 mux2 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 24 0
+2 5 flopr 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 30 0
+2 7 regfile 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 39 0
+2 6 extend 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 58 0
+2 4 mux3 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 30 0
+2 3 alu 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 51 0
+2 8 datapath 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 633 0
+2 5 riscv 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 1044 0
+2 3 mem 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 34 0
+2 3 top 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 1102 0
+1 9 testbench 4 fast 36 D:/ders/term8-final/ELE432/Lab3/work 0 0 0 0 1159 0
